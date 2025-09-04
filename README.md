@@ -22,6 +22,10 @@ Organizar e documentar o conteúdo estudado, facilitando a revisão, prática e 
 
 ---
 
+## 📚 Livros recomendados
+
+---
+
 ## 🗂 Organização
 
 ```plaintext
