@@ -48,14 +48,14 @@ Possui edição traduzida para o português. Excelente para quem estuda com Java
 
 ---
 
-## 🗂 Organização
-
-```plaintext
-📁 atividades/
-📁 exercicios/
-📁 projetos/
-
-## Autor
-Desenvolvido por Wenderson Santos
+👨‍🎓 Autor
+Nome: Wenderson Santos
+Curso: Engenharia de Software – Univassoura
+Semestre: 3º
 Disciplina: Estrutura de Dados
-Instituição: Univassouras Saquarema-RJ
+Professor: André Saraiva
+Local: Saquarema – RJ
+Ano: 2025
+
+
+
