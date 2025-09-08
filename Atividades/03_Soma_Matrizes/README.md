@@ -1,18 +1,18 @@
-#📘 Atividade: Soma de Matrizes em C
+##📘 Atividade: Soma de Matrizes em C
 
-Disciplina: Estrutura de Dados 
-Aluno(a): Wenderson Santos
-Professor: André Saraiva
-Instituição: Univassouras - Saquarema -RJ
+. Disciplina: Estrutura de Dados 
+. Aluno(a): Wenderson Santos
+. Professor: André Saraiva
+. Instituição: Univassouras - Saquarema -RJ
 
 ---
 
-#🎯 Objetivo
+##🎯 Objetivo
 Desenvolver um algoritmo em linguagem C que realiza a soma de duas matrizes 3x3 previamente definidas no código. A atividade tem como foco o uso de arrays bidimensionais, laços de repetição e boas práticas de formatação de saída.
 
 ---
 
-#🧠 Conceitos Aplicados
+##🧠 Conceitos Aplicados
 Arrays bidimensionais (int A[3][3], int B[3][3], int C[3][3])
 
 Laços for aninhados
@@ -23,7 +23,7 @@ Uso da função setlocale para exibir acentuação corretamente
 
 ---
 
-#💻 Código da Atividade
+##💻 Código da Atividade
 
 #include <stdio.h>
 #include <locale.h>
@@ -64,7 +64,7 @@ int main(){
 
 ---
 
-#📊 Saída Esperada
+##📊 Saída Esperada
 Com os valores definidos nas matrizes A e B, o programa exibirá:
 
 Código
@@ -78,7 +78,7 @@ OBS: O ALGORITMO ACIMA REALIZOU A SOMA ENTRE MATRIZ 'A' COM MATRIZ 'B' RESULTAND
 
 ---
 
-#📝 Observações
+##📝 Observações
 
 . As matrizes são fixas e já estão declaradas no código.
 
