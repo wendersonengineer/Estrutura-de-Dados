@@ -10,10 +10,10 @@ Desenvolver um algoritmo em linguagem C que realiza a soma de duas matrizes 3x3 
 ---
 ## 🧠 Conceitos Aplicados
 
-Arrays bidimensionais (int A[3][3], int B[3][3], int C[3][3])
-Laços for aninhados
-Operações entre estruturas
-Uso da função setlocale para exibir acentuação corretamente
+. Arrays bidimensionais (int A[3][3], int B[3][3], int C[3][3])
+. Laços for aninhados
+. Operações entre estruturas
+. Uso da função setlocale para exibir acentuação corretamente
 ---
 ## 💻 Código da Atividade
 
@@ -57,6 +57,7 @@ int main(){
 
 Com os valores definidos nas matrizes A e B, o programa exibirá:
 Código
+
 RESULTADO DA SOMA DE MATRIZES = 'MATRIZ C (A + B)'
 2   4   6   
 8   0   12  
