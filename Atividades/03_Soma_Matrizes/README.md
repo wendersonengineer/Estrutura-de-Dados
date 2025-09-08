@@ -16,7 +16,7 @@ Desenvolver um algoritmo em linguagem C que realiza a soma de duas matrizes 3x3 
 . Uso da função setlocale para exibir acentuação corretamente
 ---
 ## 💻 Código da Atividade
-
+```c
 #include <stdio.h>
 #include <locale.h>
 int main(){
@@ -52,8 +52,8 @@ int main(){
     printf("\n\nOBS: O ALGORITMO ACIMA REALIZOU A SOMA ENTRE MATRIZ 'A' COM MATRIZ 'B' RESULTANDO NA MATRIZ 'C'.\n\n");
     return 0;
 }
----
-## 📊 Saída Esperada
+...
+📊 Saída Esperada
 
 Com os valores definidos nas matrizes A e B, o programa exibirá:
 Código
@@ -64,8 +64,8 @@ RESULTADO DA SOMA DE MATRIZES = 'MATRIZ C (A + B)'
 14  16  18  
 
 OBS: O ALGORITMO ACIMA REALIZOU A SOMA ENTRE MATRIZ 'A' COM MATRIZ 'B' RESULTANDO NA MATRIZ 'C'.
----
-## 📝 Observações
+
+📝 Observações
 
 . As matrizes são fixas e já estão declaradas no código.
 . O uso de setlocale permite que mensagens com acentos sejam exibidas corretamente no terminal.
