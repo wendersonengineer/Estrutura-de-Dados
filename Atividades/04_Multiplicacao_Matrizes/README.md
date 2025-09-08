@@ -1,16 +1,16 @@
-## 📘 Atividade: Multiplicação de Matrizes em C
+# 📘 Atividade: Multiplicação de Matrizes em C
 
 Disciplina: Estrutura de Dados 
 Aluno: Wenderson Santos
 Professor(a): André Saraiva
 Instituição: Univassouras
 ---
-🎯 Objetivo
+# 🎯 Objetivo
 
 Desenvolver um algoritmo em linguagem C que realiza a multiplicação de duas matrizes 3x3 previamente definidas. A atividade tem como foco o uso de arrays bidimensionais, laços de repetição aninhados e lógica de multiplicação matricial.
 ---
 
-🧠 Conceitos Aplicados
+# 🧠 Conceitos Aplicados
 
 . Matrizes fixas (A, B) e matriz resultado (C)
 Multiplicação de matrizes: Cada elemento da matriz C[i][j] é calculado pela soma dos produtos dos elementos correspondentes da linha i da matriz A com a coluna j da matriz B.
@@ -21,7 +21,7 @@ Multiplicação de matrizes: Cada elemento da matriz C[i][j] é calculado pela s
 
 ---
 
-💻 Código da Atividade
+# 💻 Código da Atividade
 ```c
 #include <stdio.h>
 #include <locale.h>
