@@ -16,7 +16,6 @@ Desenvolver um algoritmo em linguagem C que realiza a multiplicação de duas ma
 🧠 Conceitos Aplicados
 
 Matrizes fixas (A, B) e matriz resultado (C)
-
 Multiplicação de matrizes: Cada elemento da matriz C[i][j] é calculado pela soma dos produtos dos elementos correspondentes da linha i da matriz A com a coluna j da matriz B.
 
 Laços for aninhados
